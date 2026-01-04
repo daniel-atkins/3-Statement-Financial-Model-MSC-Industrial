@@ -38,4 +38,20 @@ The model includes:
 ## How to View
 1. Download the Excel model file.
 2. Open in Microsoft Excel (Office 365 or Excel 2016+ recommended).
-3. Review assump
+3. Review assumptions and forecasts across model tabs.
+4. Refer to the case study deck for a narrative summary of results.
+
+---
+
+## Notes
+- All analysis is based on **publicly available information**.
+- The model is intended for **educational and portfolio demonstration purposes**.
+- Outputs are illustrative and not investment recommendations.
+
+---
+
+## Use Case
+This project reflects a typical **FP&A or corporate finance modeling exercise**, demonstrating the ability to:
+- Build and link core financial statements
+- Translate assumptions into forecasted financial outcomes
+- Present results in a format suitable for executive or stakeholder review

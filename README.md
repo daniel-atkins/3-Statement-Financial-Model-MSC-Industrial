@@ -58,5 +58,3 @@ forecast (including stubbed periods) and PowerPoint deck (6-7 slides) based on t
         o Investment Recommendation: Provide your opinion on MSM through an investment recommendation, and
         whether you feel the common stock is over or undervalued in the current environment. Include a brief
         explanation supporting your thesis. (1 slide)
-
-Any parameters not defined in the case study are to be determined based on your discretion.

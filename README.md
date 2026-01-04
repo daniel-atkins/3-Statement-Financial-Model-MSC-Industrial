@@ -1,57 +1,53 @@
 # 3-Statement Financial Model — MSC Industrial
 
-This repository contains an integrated **3-statement financial model** for MSC Industrial, built using publicly available financial statements. The model supports **forecasting, working capital analysis, and valuation**, and is structured to mirror a typical FP&A or investment analysis case study.
+## Overview
+This project is a comprehensive **3-statement financial model** built for **MSC Industrial**, designed to integrate the income statement, balance sheet, and cash flow statement into a unified forecasting framework. The model supports scenario analysis, working capital evaluation, and valuation insights commonly used in FP&A and corporate finance roles.
+
+The objective of this project is to demonstrate practical financial modeling skills used in forecasting, performance analysis, and executive decision support.
 
 ---
 
-## Project Overview
-The objective of this project was to construct a complete, internally consistent financial model linking the **Income Statement, Balance Sheet, and Cash Flow Statement**. The model is designed to support forward-looking analysis and executive-level review, with clear assumptions, transparent drivers, and reconciled outputs.
-
----
-
-## Model Scope
-The model includes:
-- Historical financials sourced from public filings
-- Multi-year forecast of revenue, margins, and operating expenses
-- Working capital projections tied to revenue assumptions
-- Integrated cash flow statement driven by operating performance
-- Scenario flexibility to support base and downside cases
-- Valuation outputs based on projected cash flows
+## Key Features
+- Fully integrated **Income Statement, Balance Sheet, and Cash Flow**
+- Multi-period financial forecast
+- Working capital and cash flow driver analysis
+- Scenario and sensitivity analysis
+- Executive-level outputs suitable for review and presentation
 
 ---
 
 ## Key Outputs
-- Forecasted Income Statement, Balance Sheet, and Cash Flow Statement
-- Cash flow generation and working capital dynamics
-- Scenario-based financial outcomes
-- Valuation summary for analytical review
-
----
-
-## Repository Contents
-- **Excel Model** — Integrated 3-statement financial model
-- **Case Study Deck** — Summary of assumptions, methodology, and outputs
-- **README.md** — Project overview and usage notes
+| Output | Description |
+|------|-------------|
+| Historical financials | Cleaned and structured base financials |
+| Forecast model | Multi-year projections across all three statements |
+| Working capital analysis | Cash conversion and balance sheet drivers |
+| Valuation support | Base case and downside scenario outputs |
 
 ---
 
 ## How to View
-1. Download the Excel model file.
-2. Open in Microsoft Excel (Office 365 or Excel 2016+ recommended).
-3. Review assumptions and forecasts across model tabs.
-4. Refer to the case study deck for a narrative summary of results.
+1. Download the Excel financial model.
+2. Open using Microsoft Excel (Office 365 or Excel 2016+ recommended).
+3. Review assumptions, forecasts, and linked financial statements.
+4. Reference the accompanying case study deck for summarized insights and interpretation.
 
 ---
 
-## Notes
-- All analysis is based on **publicly available information**.
-- The model is intended for **educational and portfolio demonstration purposes**.
-- Outputs are illustrative and not investment recommendations.
+## Tools Used
+- Microsoft Excel
+- Financial modeling best practices
+- Scenario & sensitivity analysis techniques
 
 ---
 
 ## Use Case
-This project reflects a typical **FP&A or corporate finance modeling exercise**, demonstrating the ability to:
-- Build and link core financial statements
-- Translate assumptions into forecasted financial outcomes
-- Present results in a format suitable for executive or stakeholder review
+This model reflects the type of financial analysis commonly performed in:
+- FP&A and corporate finance teams  
+- Budgeting and forecasting processes  
+- Cash flow and working capital management  
+- Investment and valuation support  
+
+---
+
+*This project is for demonstration and educational purposes and is not intended as investment advice.*

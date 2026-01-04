@@ -1,60 +1,41 @@
-# MSC-Industrial-3-Statement-Model
+# 3-Statement Financial Model — MSC Industrial
 
-MSC Industrial (“Company”) MSC Industrial Direct Co., Inc (NYSE: MSM), through its subsidiaries, primarily MSC
-Industrial Supply Co., is one of the largest industrial equipment distributors in the United States, distributing
-metalworking and industrial products.
+This repository contains an integrated **3-statement financial model** for MSC Industrial, built using publicly available financial statements. The model supports **forecasting, working capital analysis, and valuation**, and is structured to mirror a typical FP&A or investment analysis case study.
 
-Based on all available information, construct a basic 3-statement model from scratch for MSM with a 7- year annual
-forecast (including stubbed periods) and PowerPoint deck (6-7 slides) based on the following:
+---
 
-• Modelling Assumptions –
+## Project Overview
+The objective of this project was to construct a complete, internally consistent financial model linking the **Income Statement, Balance Sheet, and Cash Flow Statement**. The model is designed to support forward-looking analysis and executive-level review, with clear assumptions, transparent drivers, and reconciled outputs.
 
-        o Use the most recent 10-Q available on (www.sec.gov) as the starting point for the projection period.
+---
 
-        o Assume no refinance of existing debt or other material changes to the capital structure. SOFR + 3% margin
-        on all existing long-term debt (no PIK). 50bps undrawn fee for any revolver facility. No principal amortization,
-        excess cash flow sweeps or prepayment of existing credit facility.
+## Model Scope
+The model includes:
+- Historical financials sourced from public filings
+- Multi-year forecast of revenue, margins, and operating expenses
+- Working capital projections tied to revenue assumptions
+- Integrated cash flow statement driven by operating performance
+- Scenario flexibility to support base and downside cases
+- Valuation outputs based on projected cash flows
 
-        o Simplify balance sheet projections, where possible. Assume no change to the balance of floorplan interest,
-        operating lease, and other long-term liabilities throughout the forecast period.
+---
 
-        o Forecast working capital as one net working capital (NWC) line item based on a % of revenue.
+## Key Outputs
+- Forecasted Income Statement, Balance Sheet, and Cash Flow Statement
+- Cash flow generation and working capital dynamics
+- Scenario-based financial outcomes
+- Valuation summary for analytical review
 
-        o Do not incorporate any advanced depreciation methodology or impacts of recent tax reform.
+---
 
-        o WACC = 9.3%
+## Repository Contents
+- **Excel Model** — Integrated 3-statement financial model
+- **Case Study Deck** — Summary of assumptions, methodology, and outputs
+- **README.md** — Project overview and usage notes
 
-• Case Outputs –
+---
 
-        o Base Case – Use all publicly available information (SEC filings, analyst coverage, management guidance,
-        Bloomberg, Factset, Capital IQ, etc.) to develop a Base Case forecast.
-
-        o Downside Case – Stress Base Case assumptions to formulate a Downside Case. Assume a broad economic
-        downturn attributed to a macroeconomic impact of your choosing (supply chain disruptions, 2025 global
-        recession, etc.)
-
-• Model Outputs –
-
-        o Use an appropriate valuation methodology to arrive at an enterprise valuation, implied equity value, and
-        per share value for the common stock across the Base and Downside Case. Assume no issuance of additional
-        shares.
-
-        o Summary outputs should include projected future earnings performance, free cash flow generation,
-        capitalization, and credit statistics (Leverage, DSCR, FCCR and Liquidity over the forecast period).
-
-• PowerPoint deck –
-
-        o Company description and recent performance update: Brief introduction to the Company and recent
-        performance update, highlighting any noteworthy performance trends. (1-2 slides)
-
-        o Industry overview and outlook: Outline the current industry dynamics and near-term outlook to reinforce
-        the Case Rationale slide. (1 slide)
-
-        o Summary Outputs: Summary outputs from the model across the Base and Downside Case (1 slide each)
-
-         o Case Rationale: Outline the overall theme across both the Base and Downside case. Include rationale for
-        Revenue, Opex, EBITDA, Capex, Income Tax, and Working Capital assumptions. (1 slide each)
-
-        o Investment Recommendation: Provide your opinion on MSM through an investment recommendation, and
-        whether you feel the common stock is over or undervalued in the current environment. Include a brief
-        explanation supporting your thesis. (1 slide)
+## How to View
+1. Download the Excel model file.
+2. Open in Microsoft Excel (Office 365 or Excel 2016+ recommended).
+3. Review assump
